@@ -1,0 +1,72 @@
+body{
+    background-color: black;
+    color: white;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#counter{
+    width: 55px;
+    height: 40px;
+    background-color: rgb(48, 231, 31);
+    color: rgb(7, 7, 7);
+    margin-top: 250px;
+    margin-left: 700px;
+    margin-right: -800px;
+    padding-right: 300px;
+    padding-left:350px;
+    font-size: 35px;    
+    border-radius: 500px;
+}
+h1{
+    position: relative;
+    left:1200px;
+    font-size:55px;
+}
+.btn-container{
+    font-size: 50px;
+    position: reLative;
+    left:-0px;
+    top: 450px;
+    border-radius:500px;   
+}
+.increase{
+    position: reLative;
+    height: 50px;
+    background-color:papayawhip;
+    font-size: 20px;
+    border-radius: 400px;
+    margin-top: 10px;
+    margin-right:850px;
+    padding-right:400px ;
+    padding-left: 300px;
+    font-size: 40px;
+    border-radius: 500px;  }
+.decrease{
+    position: reLative;
+    height: 50px;
+    background-color:blueviolet;
+    font-size: 20px;
+    border-radius: 400px;
+    margin-top: 10px;
+    margin-right:850px;
+    padding-right:400px ;
+    padding-left: 300px;
+    font-size: 40px;
+    border-radius: 500px;
+}
+.reset{
+    position: reLative;
+    height: 50px;
+    background-color:plum;
+    font-size: 20px;
+    border-radius: 400px;
+    margin-top: 10px;
+    margin-right:850px;
+    padding-right:400px ;
+    padding-left:300px;
+    font-size: 40px;
+    border-radius: 500px;
+}
